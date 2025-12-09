@@ -1,0 +1,7 @@
+{
+  "name": "Freelance Web Designer Portfolio",
+  "description": "Professional portfolio with 24/7 AI audio assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
